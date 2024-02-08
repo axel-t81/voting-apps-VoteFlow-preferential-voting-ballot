@@ -9,3 +9,4 @@ print("Okay, there will be " + numberOfCandidates + " candidates in this vote.")
 print()
 print("Let's collect each candidate's name...")
 print()
+# I dislike the usage of these print functions for new lines.
